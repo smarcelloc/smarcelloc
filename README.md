@@ -4,7 +4,7 @@ Meu nome é Marcello Silvério apaixonado por tecnologias que facilitam a vida d
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=smarcelloc&layout=compact&langs_count=10&custom_title=Linguagens%20mais%20usadas)](https://github.com/smarcelloc?tab=repositories)
 
 ### Melhores Projetos
-Vamos mostrar cada tecnologias têm os melhores projetos feitos por mim.
+Vamos revelar que cada tecnologia tem os melhores projetos feitos por mim.
 
 #### Laravel (PHP)
 [![oficina-mecanica](https://github-readme-stats.vercel.app/api/pin/?username=smarcelloc&repo=oficina-mecanica)](https://github.com/smarcelloc/oficina-mecanica)
