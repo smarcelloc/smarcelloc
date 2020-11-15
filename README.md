@@ -1,16 +1,16 @@
-### Hi there 👋
+### Olá 👋
+Meu nome é Marcello Silvério apaixonado por tecnologias que facilitam a vida dos programadores ✌
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=smarcelloc&layout=compact&langs_count=10&custom_title=Linguagens%20mais%20usadas)
+
+### Melhores Projetos
+Vamos mostrar cada tecnologias têm os melhores projetos feitos por mim.
+
+#### PHP
+![oficina-mecanica](https://github-readme-stats.vercel.app/api/pin/?username=smarcelloc&repo=oficina-mecanica)
+![form-microcefalia](https://github-readme-stats.vercel.app/api/pin/?username=smarcelloc&repo=form-microcefalia)
+![sistema-postagem](https://github-readme-stats.vercel.app/api/pin/?username=smarcelloc&repo=sistema-postagem)
 
 <!--
-**smarcelloc/smarcelloc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+![](https://github-readme-stats.vercel.app/api/pin/?username=smarcelloc&repo=)
 -->
